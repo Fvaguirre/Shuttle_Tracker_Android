@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShuttleTrackerAndroid</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_directions_key">AIzaSyBmZP9j8JDwWeKStUhrs4PyIrZbrzWS64s</string>
+</resources>
